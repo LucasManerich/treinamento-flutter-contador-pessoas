@@ -1,16 +1,6 @@
-# primeiro_projeto
+# Contador de Pessoas com Flutter
+Esse é um simples projeto que tem como objetivo prover um primeiro contato com o Framework Flutter e com a linguagem Dart.
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Finalidade
+A idéia desse projeto seria faciliar a contagem da quantidade de pessoas que há dentro de um estabelecimento. O App dispõe de um display que mostra a quantidade total de pessoas além de dois botões para incrementar e decrementar a quantidade.
